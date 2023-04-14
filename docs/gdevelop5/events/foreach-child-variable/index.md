@@ -1,11 +1,11 @@
 ---
 title: For each child variable event
 ---
-## For each child variable (of a structure or array)
+## For each child variable (of a structure or array scene variable)
 
-**For each child variable** events give the [child variables](/gdevelop5/all-features/variables/) from structure variables (or arrays) one at a time to their sub-events.
+**For each child variable** events give the [child variables](/gdevelop5/all-features/variables/) from scene structure variables (or arrays) one at a time to their sub-events.
 
-This event stores the value of each child variable (as a string or number) and the name of the child variable (as a string) into scene variables. The names of these scene variables are defined in the event parameters.
+This event stores the value of each child scene variable (as a string or number) and the name of the child scene variable (as a string) into scene variables. The names of these scene variables are defined in the event parameters.
 
 ## Example
 
